@@ -1,0 +1,31 @@
+body{ 
+    text-align: center;
+  } 
+  
+  img{
+    width:50%; height:50%; ; 
+  } 
+  #myname{ 
+    font-family: 'Courgette', cursive; color:black; 
+  }
+  
+  #welcome{ 
+    padding:70px; 
+    text-align:center;
+      background-color: red;
+  
+  } 
+  
+  h1{ 
+    font-size:18px; 
+  } 
+  
+  p{ 
+    font-size:18px; color:#6A1B9A; 
+  } 
+  
+  h2{
+    font-size:20px; color:#003487; 
+  }
+   
+  
